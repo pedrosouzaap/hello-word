@@ -1,2 +1,2 @@
-# hello-word
-Apenas uma apresentação
+# Pedro Souza
+Amo programar e contribuir com o conhecimento que tenho :);
